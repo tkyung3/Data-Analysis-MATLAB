@@ -17,11 +17,3 @@ In this session, you will learn how MATLAB can be used to visualize and analyze 
 * Automating and capturing your work in easy-to-write scripts and programs 
 * Sharing your results with others by automatically creating reports
 * Building and deploying interactive applications
-
-## Relevant Industries
-
-All
-
-## Relevant Products
-
-MATLAB, Curve Fitting Toolbox, MATLAB Compiler
